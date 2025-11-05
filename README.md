@@ -44,7 +44,7 @@
         </div>
         <div class="desc">
             <h3>**Front-end Developer**</h3>
-            <p>Tháng 5 2024 - Hiện tại</p>
+            <p></p>
         </div>
       </div>
     </div>
@@ -52,11 +52,11 @@
     <div class="container right">
         <div class="content">
           <div class="tag">
-            <h2>Thực tập tại FPT Software</h2>
+            <h2>sinh viên năm 1 DNU</h2>
           </div>
           <div class="desc">
               <h3>**Lập trình viên thực tập** | Dự án quản lý</h3>
-              <p>Tháng 12 2023 - Tháng 3 2024</p>
+              <p>2025-2029</p>
           </div>
         </div>
       </div>
@@ -68,7 +68,7 @@
           </div>
           <div class="desc">
               <h3>**Phát triển Full Stack (MERN)**</h3>
-              <p>Tháng 9 2023 - Tháng 11 2023</p>
+              <p></p>
           </div>
         </div>
       </div>
@@ -129,4 +129,14 @@
 <script src="./script.js"></script>
 
 </body>
-</html># my-portfolio-final
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="jigar sable, portfolio, jigar, full stack dev, personal portfolio lifecodes, portfolio design, portfolio website, personal portfolio" />
+    <meta name="description" content="Welcome to Jigar's Portfolio. Full-Stack Web Developer and Android App Developer" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <!-- Font Awesome -->
